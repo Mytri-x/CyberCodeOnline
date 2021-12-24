@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Spis",
+ 	 	 	"trans": "Ekwipunek",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
@@ -24,20 +24,20 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Wymiana jednostki Arasaki",
+ 	 	 	 	"trans": "Wymiana Jednostek Arasaki",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Możesz kupić tutaj globalne przedmioty",
+ 	 	 	 	"trans": "Tutaj możesz kupić globalne przedmioty buffujące",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access unit exchange",
+ 	 	 	 	"trans": "Musisz mieć co najmniej poziom 3, by mieć dostęp do Wymiany Jednostek",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	 	"Chcesz kupić Jednostki, czy wykorzystać swoje Jednostki?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -46,20 +46,20 @@
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kosmetyczna cyberwear",
+ 	 	 	 	"trans": "Kosmetyczne Cyberubrania",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider donating :)",
+ 	 	 	 	"trans": "Jeśli podoba ci się gra, rozważ datek :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Musisz mieć co najmniej poziom 3, aby mieć dostęp do sprzedawcy zawartości kosmetycznej",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	 	"Cześć! Przekaż datek, by uzyskać kosmetyczne profity i wspomóc gry rodzaju Darmowa-by-Wygrać (Free-to-Win) takie jak ta!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -72,7 +72,7 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can use your acquired Caches to print new equipment here",
+ 	 	 	 	"trans": "Tutaj możesz wykorzystać uzyskane Pamięci Podręczne, by wydrukować nowy ekwipunek",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	},
  	 	 	"defaultLines": {
